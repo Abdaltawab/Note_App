@@ -1,16 +1,20 @@
 # appnote
 
-A new Flutter project.
+[A new Flutter project.](https://github.com/Abdaltawab/Note_App/assets/100976388/047c3744-d3ab-4f8c-a73c-4683bd6c0737)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+App Notes 
 
-A few resources to get you started if this is your first Flutter project:
+using API with PHP , shared preference and Mysql .
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+User can create account,
+ add notes ,
+ edit notes , 
+delete notes,
+ view notes details,
+Add image in note card .
+ 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+hashtag#flutter hashtag#ApiwithPHP hashtag#mysql
+hashtag#mobileappdevelopment hashtag#notes
